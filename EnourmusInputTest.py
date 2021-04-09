@@ -35,3 +35,9 @@ for i in range(n):
         ans = ans + 1
 print(ans)
 
+#This is the code for Enourmus Input Test. This is the second problem in Beginner's Section.
+#Thank you for reading my code!!!
+#if you like:
+#   give a star
+#else:
+#   give a star
