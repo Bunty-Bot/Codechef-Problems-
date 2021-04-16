@@ -34,3 +34,7 @@ Code:-
       
 # This is the 7th problem in the beginner's section. This quite tough as compare to other problems.
 # But if you have a good knowledge of math then it is easy.
+# If you like:
+#    give a star
+# else:
+#    give a star
