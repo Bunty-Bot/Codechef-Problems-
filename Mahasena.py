@@ -76,4 +76,24 @@ Explanation:
              the answer is "NOT READY" since the number of soldiers holding an even number of weapons is not greater than the number of soldiers holding an odd number of 
              weapons.
     
-  
+  Code:
+    soldier = int(input())
+    weapon = list(map(int, input().split()))
+    ce, co = 0, 0
+    for j in weapon:
+        if j%2 ==0:
+            ce+=1
+        else:
+            co+=1
+    if ce > co:
+        print("READY FOR BATTLE")
+    else:
+    print("NOT READY")
+    
+# This is the code for the MAHASENA Problem. This is the proper beginner problem. But you should be careful while writing the code.
+# Read the condition carfully and solve the problem.
+# if you like:
+#   give a star
+# else:
+#   give a star
+
